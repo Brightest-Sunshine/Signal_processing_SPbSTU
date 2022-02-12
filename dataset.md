@@ -4,5 +4,23 @@
 ### 1. Простейший случай
 На входе имеем очень большой четырёхугольник и маленький предмет - прищепка
 
-![case1](https://github.com/Brightest-Sunshine/pictures-for-README-files/blob/master/pics/case1.jpg){:height="36px" width="36px"}.
+![case1](https://github.com/Brightest-Sunshine/pictures-for-README-files/blob/master/pics/case1.jpg)
 Алгоритм должен вернуть YES
+
+### 2. Предельный случай с одним предметом
+На входе имеем прямоугольник, который может вплотную поместить в себя пилочку для ногтей. Случай предельный, так как пилочка будем вплотную к краям многоугольника
+
+![case2](https://github.com/Brightest-Sunshine/pictures-for-README-files/blob/master/pics/case2.jpg)
+Алгоритм должен вернуть YES
+
+### 3. Простейший случай несоответствия допустимого размера
+На входе имеем треугольник и нож, который по габаритам не помещается в фигуру. Случай классифицируем как простейший, так как нож будет выступать за границы фигуры (при параллельном переносе) на достаточное расстояние
+
+![case3](https://github.com/Brightest-Sunshine/pictures-for-README-files/blob/master/pics/case3.jpg)
+Алгоритм должен вернуть NO
+
+Теперь рассматриваем всё те же предметы, однако поворачиваем нож на 90 градусов.
+
+![case4](https://github.com/Brightest-Sunshine/pictures-for-README-files/blob/master/pics/case4.jpg)
+Алгоритм должен вернуть NO
+
