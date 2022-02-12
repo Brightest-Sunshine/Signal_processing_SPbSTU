@@ -4,5 +4,5 @@
 ### 1. Простейший случай
 На входе имеем очень большой четырёхугольник и маленький предмет - прищепка
 
-![case1](https://github.com/Brightest-Sunshine/pictures-for-README-files/blob/master/pics/case1.jpg) {:height="36px" width="36px"}.
+![case1](https://github.com/Brightest-Sunshine/pictures-for-README-files/blob/master/pics/case1.jpg){:height="36px" width="36px"}.
 Алгоритм должен вернуть YES
